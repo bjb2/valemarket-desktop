@@ -1,5 +1,7 @@
 # ValeMarket Desktop
 
+> **Preferred install:** New users should install [Vale Companion](https://github.com/bjb2/valecompanion/releases/latest), which combines ValeMarket and ValeLoot in one passive desktop application. This standalone ValeMarket repository remains available for existing installations.
+
 A Windows and Linux desktop market browser and passive community contributor for **Spirit Vale**.
 
 ValeMarket shows currently active listings reported by contributors. It is not a sale-history tracker, does not automate the game, and does not modify game files.
